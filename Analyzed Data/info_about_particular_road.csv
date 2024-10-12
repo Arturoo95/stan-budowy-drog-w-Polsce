@@ -1,0 +1,300 @@
+nr_drogi,nazwa_odcinka_realizacyjnego,łączna_długość_odcinka,etap
+A1,"Poszerzenie autostrady A1 na odcinku od węzła „Toruń Południe” do węzła „Włocławek Północ” o dodatkowe pasy ruchu",34.8,przygotowanie
+A2,"3. węzeł „Dobryń” (bez węzła) w km 650+300 ‒ km 657+137",6.852,przygotowanie
+A2,"1. węzeł „Cicibór” (bez węzła) w km 624+830 – km 640+703 (odc. X)",16.181,przygotowanie
+A2,"Poszerzenie autostrady A2 na odcinku węzeł „Łódź Północ”  (z węzłem)  - węzeł „Konotopa” (bez węzła)  o dodatkowe pasy ruchu",92.204,przygotowanie
+A2,"2. km 640+703 ‒ węzeł „Dobryń” (z węzłem) w km 650+300 (odc. XI)",9.276,przygotowanie
+A2,"Kałuszyn (Ryczołek) - Groszki",12.06,Realizacja
+A2,"Groszki - Siedlce Zachód (Gręzów)",12.887,Realizacja
+A2,"Siedlce Zachód (Gręzów) - Siedlce Południe (Swoboda)",12.489,Realizacja
+A2,"Siedlce Południe (Swoboda) - km 580+19 (m. Malinowiec)",18.75,Realizacja
+A2,"km 580+190 (m. Malinowiec) - Łukowisko",19.947,Realizacja
+A2,"Łukowisko - km 610+722 (m. Swory)",12.506,Realizacja
+A2,"km 610+722 (m. Swory) - Biała Podlaska (Cicibór) ",14.108,Realizacja
+A4,"Rozbudowa autostrady A4 na odcinku Węzeł Brzesko (bez węzła) – Węzeł Tarnów Centrum",33.826,przygotowanie
+A4,"Rozbudowa autostrady A4 od węzła Kraków Zachód (Balice) do ul. Kąpielowej w Krakowie oraz drogi S52 od węzła Kraków Zachód do węzła Modlniczka o trzeci pas ruchu",20.069,przygotowanie
+A4,"Rozbudowa autostrady A4 na odcinku  węzeł Byczyna (bez węzła) – węzeł Balice I",34.5,przygotowanie
+A4,"Rozbudowa A4 na odcinku węzeł Murckowska (bez węzła) - węzeł Byczyna (z węzłem)",25.188,przygotowanie
+A4,"Rozbudowa autostrady A4 na odcinku Węzeł Kraków Bieżanów – Węzeł Targowisko",18.5,przygotowanie
+A4,"Rozbudowa A4 odcinek gr. woj. opolskiego - węzeł Murckowska",59.726,przygotowanie
+A4,"Odc. 2. Rozbudowa A4 na terenie woj. opolskiego",88.113,przygotowanie
+A4,"Odc. 1. Rozbudowa A4 na terenie woj. dolnośląskiego",29.543,przygotowanie
+A4,"Budowa/rozbudowa autostrady A4 Legnica Płd. (z węzłem) - Wrocław Wschód/Stary Śleszów",80,przygotowanie
+A4,"Rozbudowa autostrady A4 na odcinku Węzeł Targowisko (bez węzła) – Węzeł Brzesko wraz z budową drugiej jezdni w ciągu dk 75 od węzła Brzesko do skrzyżowania z dk 94",23.3,przygotowanie
+A4,"Rozbudowa autostrady A4 na odcinku od ul. Kąpielowej w Krakowie  do Węzła Kraków Bieżanów (bez węzła)",9,przygotowanie
+A4,"Budowa/rozbudowa autostrady A4 Krzyżowa - Legnica Płd. (bez węzła)",35,przygotowanie
+A50,"4. Obwodnica Aglomeracji Warszawskiej, odcinek uzupełniający: S7 (bez węzła) – DK79 (z węzłem)",23,przygotowanie
+A50/S50,"2. Obwodnica Aglomeracji Warszawskiej, odcinek DK92 (bez węzła) – S7 (z węzłem)",59,przygotowanie
+A50/S50,"Obwodnica Aglomeracji Warszawskiej, Część wschodnia i północna",121,przygotowanie
+DK78,"Budowa obwodnicy Poręby i Zawiercia w ciągu DK78, 
+odc. Kromołów - Żerkowice",7.469,przetarg
+GP12,"obwodnica Głogowa ",18.481,przetarg
+GP12,"Budowa obwodnicy Błaszek w ciągu drogi krajowej nr 12",4.54,przygotowanie
+GP12,"Budowa obwodnicy miasta Wschowa w ciągu drogi krajowej nr 12",7.331,przygotowanie
+GP12,"obwodnica Gostynia",17.27,Realizacja
+GP12/91,"obwodnica Srocka",3.7,przetarg
+GP13,"2. Odcinek 2 od węzła "Siadło Górne" /z węzłem/ do węzła "Szczecin Zachód" /z węzłem/",2.879,przygotowanie
+GP13,"Budowa obwodnicy Kołbaskowa w ciągu dk13",5.58,przygotowanie
+GP14,"Budowa obwodnicy Łowicza w ciągu dróg krajowych nr 14/70/92",10.825,przygotowanie
+GP15,"Budowa obwodnicy Milicza w ciągu drogi krajowej nr 15",10.1,przygotowanie
+GP15,"Obwodnica Krotoszyna, Zdun, Cieszkowa w ciągu drogi krajowej nr 15",17.212,przygotowanie
+GP15,"Budowa obwodnicy Kowalewa Pomorskiego w ciągu dk 15",8,przygotowanie
+GP15,"obwodnica Koźmina Wielkopolskiego",5.88,Realizacja
+GP15/GP25,"Budowa obwodnicy Strzelna w ciągu dk 15 i dk 25",9.1,przygotowanie
+GP16,"Obwodnica Augustowa w ciągu DK16",7.318,przygotowanie
+GP20,"Budowa obwodnicy Złocieńca w ciągu dk 20",7.981,przygotowanie
+GP20,"obwodnica Stargardu",4.51,Realizacja
+GP20,"obwodnica Szczecinka",4.4,Realizacja
+GP21,"Budowa obwodnicy Słupska i Kobylnicy w ciągu drogi krajowej 21",8.697,przygotowanie
+GP22,"Budowa Obwodnicy Człopy w ciągu drogi krajowej 22",5.028,przygotowanie
+GP22,"Budowa obwodnicy Starogardu Gdańskiego w ciągu drogi krajowej nr 22",16.133,przygotowanie
+GP22,"Budowa obwodnicy m. Dobiegniew w ciągu drogi krajowej nr 22",5.85,przygotowanie
+GP22,"obwodnica Wałcza",13.32,Realizacja
+GP22,"obwodnica Rusinowa",4.54,Realizacja
+GP22,"obwodnica Szwecji",4.18,Realizacja
+GP22,"obwodnica Strzelec Krajeńskich",7.312,Realizacja
+GP22/GP25,"Budowa obwodnicy Człuchowa w ciągu dróg krajowych 22 i 25",22.198,przygotowanie
+GP24,"Obwodnica Kamionnej w ciągu drogi krajowej nr 24",3.43,przygotowanie
+GP24,"Budowa obwodnicy Przytocznej w ciągu drogi krajowej nr 24",7.603,przygotowanie
+GP25,"Biskupice Ołoboczne - Ostrów Wielkopolski",6.58,przetarg
+GP25,"Budowa obwodnicy Kamienia Krajeńskiego",2.475,przetarg
+GP25,"Budowa obwodnicy Sępólna Krajeńskiego",6.413,przetarg
+GP25,"odc. Zbiersk - Kokanin",18.044,przygotowanie
+GP25,"odc. Konin-Rychwał",11.95,przygotowanie
+GP25,"odc. Rychwał - Zbiersk",13.05,przygotowanie
+GP25,"Budowa obwodnicy Nowej Wsi Wielkiej w ciągu dk 25",6.41,przygotowanie
+GP25,"Obwodnica Kalisza w ciągu drogi krajowej nr 25",18.517,przygotowanie
+GP25,"Budowa obwodnicy Międzyborza w ciągu drogi krajowej nr 25",8.4,przygotowanie
+GP28,"obwodnica Zatora",2.093,przetarg
+GP28,"Budowa obwodnicy Limanowej w ciągu drogi krajowej nr 28",5.6,przygotowanie
+GP28,"Budowa obwodnicy Miejsca Piastowego w ciągu drogi krajowej nr 28",22.3,przygotowanie
+GP28,"Budowa południowej obwodnicy Wadowic w ciągu dk 28",1.45,przygotowanie
+GP28,"Budowa obwodnicy Makowa Podhalańskiego w ciągu drogi krajowej nr 28",5,przygotowanie
+GP28,"obwodnica Sanoka II etap",3,Realizacja
+GP29,"obwodnica Krosna Odrzańskiego",11.383,Realizacja
+GP3,"Budowa obwodnicy Kaczorowa",5.2,przygotowanie
+GP31,"Obwodnica m. Kostrzyn nad Odrą w ciągu DK 31",9.18,przygotowanie
+GP31,"obwodnica Gryfina",5.522,Realizacja
+GP32,"obwodnica Żodynia",3.3,Realizacja
+GP32,"obwodnica Strykowa",3.075,Realizacja
+GP39,"Budowa obwodnicy Brzegu w ciągu drogi krajowej nr 39",8.741,przygotowanie
+GP41,"Budowa obwodnicy Prudnika w ciągu dk 41",3.079,przygotowanie
+GP42,"Budowa obwodnicy Starachowic w ciągu dk 42",14.6,przygotowanie
+GP42,"obwodnica Wąchocka",11.72,Realizacja
+GP42/91,"Budowa obwodnicy Radomska",12.083,przygotowanie
+GP44,"obwodnica Oświęcimia",9.045,Realizacja
+GP45,"Budowa obwodnicy Wielunia w ciągu drogi krajowej nr 45",10.977,przygotowanie
+GP46,"Budowa obwodnicy Złotego Stoku",14,przygotowanie
+GP46,"Budowa obwodnicy Sidziny w ciągu dk46",8.5,przygotowanie
+GP46,"Budowa obwodnicy Lędzin w ciągu dk 46",3,przygotowanie
+GP46,"Budowa obwodnicy Blachowni i Herb w ciągu drogi krajowej nr 46",10.81,przygotowanie
+GP47,"Rdzawka - Nowy Targ poza PBDK",16.136,Realizacja
+GP49,"Budowa obwodnicy Nowego Targu w ciągu DK 49",4.53,przygotowanie
+GP50,"obwodnica Kołbieli",11.298,Realizacja
+GP51,"Budowa obwodnicy Olsztyna i Dywit w ciągu dk 51",15.18,przygotowanie
+GP53,"Budowa obwodnicy Szczytna w ciągu dk 53,57 I 58",16.971,przygotowanie
+GP53,"Budowa obwodnicy Ostrołęki w ciągu drogi krajowej nr 53",13.5,przygotowanie
+GP55,"Budowa obwodnicy Sztumu w ciągu drogi krajowej 55",9.865,przygotowanie
+GP58/GP63,"budowa obwodnicy Pisza w ciągu dk 58 i dk 63",7.34,przygotowanie
+GP60,"Budowa obwodnicy Łącka w ciągu drogi krajowej nr 60",3.2,przygotowanie
+GP60,"Budowa obwodnicy Ciechanowa w ciągu drogi krajowej nr 60",16,przygotowanie
+GP61,"obwodnica Pułtuska",19.769,Realizacja
+GP62,"Budowa obwodnicy Kruszwicy w ciągu dk 62",7,przygotowanie
+GP62,"Budowa obwodnicy Brześcia Kujawskiego w ciągu dk 62",9.36,przygotowanie
+GP62,"Budowa obwodnicy Łochowa w ciągu drogi krajowej nr 62",9.6,przygotowanie
+GP62/GP63,"Budowa obwodnicy Sokołowa Podlaskiego w ciągu dróg krajowych nr 62 i 63",17,przygotowanie
+GP63,"Budowa obwodnicy Siedlec w ciągu drogi krajowej nr 63",8.5,przygotowanie
+GP63/GP66,"obw. Zambrowa w ciągu DK63/66",4.877,przygotowanie
+GP63/GP76,"Budowa obwodnicy Łukowa w ciągu dróg krajowych nr 63 i 76",9.5,przygotowanie
+GP65,"obwodnica Gąsek",3.16,Realizacja
+GP66,"obwodnica Bielska Podlaskiego",2.983,Realizacja
+GP67,"Budowa obwodnicy Lipna w ciągu dk 67",6,przygotowanie
+GP7,"Budowa drogi dwujezdniowej klasy GP (na parametrach klasy S) w ciągu DK7 na odc. Rabka-Chyżne",35,przygotowanie
+GP72,"Budowa obwodnicy Brzezin w ciągu drogi krajowej nr 72",14.049,przygotowanie
+GP73,"obwodnica Pilzna",2.601,przetarg
+GP73,"Budowa Obwodnicy Tarnowa (nowy przebieg w ciągu DK nr 73)",10,przygotowanie
+GP73,"Budowa obwodnicy Jasła w ciągu drogi krajowej nr 73",9.73,przygotowanie
+GP73,"Budowa obwodnicy Brzostka i Kołaczyc w ciągu drogi krajowej nr 73",13.384,przygotowanie
+GP73,"obwodnica Morawicy II odcinek ",4.38,Realizacja
+GP73/GP78,"Budowa obwodnicy Chmielnika w ciągu DK 73 i DK 78",5.8,przygotowanie
+GP74,"Budowa obwodnicy Zamościa w ciągu dk 74",19,przygotowanie
+GP74,"Budowa obwodnicy Szczebrzeszyna w ciągu drogi krajowej nr 74",4,przygotowanie
+GP74,"Budowa obwodnicy Janowa Lubelskiego w ciągu drogi krajowej nr 74",9.554,przygotowanie
+GP74,"obwodnica Dzwoli oraz rozbudowa na odc. Janów Lubelski - Frampol",12.043,Realizacja
+GP74,"łącznik północny DK9 i DK74 ",3.1,Realizacja
+GP74,"obwodnica Gorajca ",6.658,Realizacja
+GP75,"Odc. II od Brzeska na włączeniu do dk 75 do Nowego Sącza",47.218,przygotowanie
+GP75,"łącznik brzeski II etap",2.994,Realizacja
+GP77,"Budowa obwodnicy Przemyśla w ciągu drogi dk 28/77",22,przygotowanie
+GP78,"obwodnica Kroczyc",9.108,przetarg
+GP78,"obwodnica Pradeł",2.364,przetarg
+GP78,"Budowa obwodnicy Szczekocin i Goleniowych w ciągu drogi krajowej nr 78",13.13,przygotowanie
+GP78,"Budowa obwodnicy Nakła Śląskiego oraz Świerklańca w ciągu drogi krajowej nr 78",12.529,przygotowanie
+GP78,"obwodnica Poręby i Zawiercia - odc. Siewierz - Poręba - Zawiercie (Kromołów)",16.664,Realizacja
+GP79,"Budowa obwodnicy Osieka w ciągu DK 79",3.243,przygotowanie
+GP79,"Budowa obwodnicy Zwolenia w ciągu drogi krajowej nr 79",10.348,przygotowanie
+GP79,"Budowa obwodnicy Chrzanowa i Trzebini w ciągu dk 79",15.9,przygotowanie
+GP79,"obwodnica Zabierzowa",10.32,Realizacja
+GP79,"obwodnica Lipska",6.35,Realizacja
+GP8,"obwodnica Białobrzegów",3.44,Realizacja
+GP8,"obwodnica Suchowoli",15.103,Realizacja
+GP8,"obwodnica Sztabina",4.23,Realizacja
+GP82,"Budowa obwodnicy Łęcznej w ciągu dk 82",4.5,przygotowanie
+GP87,"Budowa obwodnicy Piwnicznej w ciągu dk 87",2.041,przygotowanie
+GP9,"obwodnica Skaryszewa",6,przetarg
+GP9,"Budowa obwodnicy Kolbuszowej w ciągu dk 9",8.5,przygotowanie
+GP9,"Budowa obwodnicy Nowej Dęby w ciągu dk 9",7,przygotowanie
+GP94,"Budowa obwodnicy Legnicy",2.8,przygotowanie
+GP94,"Budowa obwodnicy Oławy",11,przygotowanie
+GP94,"Przebudowa dróg krajowych nr 94 i 36 na odc. Wrocław-Lubin",60,przygotowanie
+S1,"Oświęcim - Dankowice",15.835,Realizacja
+S1,"Dankowice - Suchy Potok",12.02,Realizacja
+S1,"Przybędza - Milówka (obejście Węgierskiej Górki)",8.53,Realizacja
+S1,"Bieruń - Oświęcim wraz z obwodnicą Bierunia",4.9,Realizacja
+S1,"Mysłowice Kosztowy - Bieruń",10,Realizacja
+S10,"Stargard Wschód - Suchań",13.8,przetarg
+S10,"Szczecin Kijewo - Szczecin Zdunowo",4.43,przetarg
+S10,"Budowa drogi ekspresowej S10 A1 – Obwodnica Aglomeracji Warszawskiej odc. w woj mazowieckim",60,przygotowanie
+S10,"Budowa drogi ekspresowej S10 A1 – Obwodnica Aglomeracji Warszawskiej odc. w woj. kujawsko-pomorskim",40,przygotowanie
+S10,"S10 Piła-Bydgoszcz odc. węzeł Wyrzysk - węzeł Pawłówek (bez węzłów)",39.9,przygotowanie
+S10,"Budowa drogi S10 na odcinku Piła (węzeł "Piła Wschód") - Wyrzysk",31,przygotowanie
+S10,"Budowa obwodnicy Wyrzyska w ciągu S10",5,przygotowanie
+S10,"Cybowo - Łowicz Wałecki",16.6,Realizacja
+S10,"Recz - Cybowo",15.68,Realizacja
+S10,"Bydgoszcz Południe - Bydgoszcz Emilianowo wraz z rozbudową DK25",14.295,Realizacja
+S10,"Stargard Wschód - Suchań",13.8,Realizacja
+S10,"Suchań - Recz",19.6,Realizacja
+S10,"Piecnik - Wałcz ",16,Realizacja
+S10,"Witankowo - Piła Północ",13,Realizacja
+S10,"Bydgoszcz Emilianowo - Solec",8.64,Realizacja
+S10,"Solec - Toruń Zachód",21.184,Realizacja
+S10,"Toruń Zachód - Toruń Południe",11.86,Realizacja
+S11,"węzeł "Ostrzeszów Północ" - węzeł "Kępno Północ"",17.541,przygotowanie
+S11,"węzeł „Przygodzice” – węzeł „Ostrzeszów Północ” (bez węzła)",12.625,przygotowanie
+S11,"Budowa drogi S11 Kępno-A1, odc. granica województwa opolskiego do obwodnicy Tarnowskich Gór (z wyłączeniem obwodnicy Tarnowskich Gór)",29.674,przygotowanie
+S11,"Budowa drogi S11 Kępno - A1, odcinek obwodnica Tarnowskich Gór",36,przygotowanie
+S11,"Turowo - węzeł "Podgaje" (z węzłem)",22.421,przygotowanie
+S11,"węzeł "Jastrowie" (z węzłem) - węzeł "Piła Północ" (bez węzła)",23.242,przygotowanie
+S11,"węzeł "Podgaje" (bez węzła) - węzeł "Jastrowie" (bez węzła)",13.643,przygotowanie
+S11,"Budowa obwodnicy Ujścia w ciągu S11",11.03,przygotowanie
+S11,"Budowa obwodnicy Piły w ciągu S10/S11",8.968,przygotowanie
+S11,"Budowa drogi ekspresowej S11 odc. Ujście - Oborniki",43.146,przygotowanie
+S11,"Gotartów - Olesno",10.53,Realizacja
+S11,"Boblice - Szczecinek",24.373,Realizacja
+S11,"Siemianice - Gotartów",22.77,Realizacja
+S11,"Kępno - Siemianice",12.5,Realizacja
+S11,"Oborniki - Poznań wraz z obwodnicą Obornik",22.17,Realizacja
+S11,"obwodnica Kępna II jezdnia",4.2,Realizacja
+S11/GP12,"B. Budowa drogi S11  Jarocin-Ostrów Wlkp.",57.673,przygotowanie
+S11/GP15,"A. Budowa drogi S11 Kórnik-Jarocin",44.127,przygotowanie
+S12,"Budowa drogi ekspresowej na odcinku węzeł „Łódź Południe” (A1) – węzeł „Kozenin” (S74)",64,przygotowanie
+S12,"Piotrków Trybunalski - Sulejów (węzeł "Kozenin")",35.112,przygotowanie
+S12,"węzeł "Kozenin" - granica województwa łódzkiego / mazowieckiego",26.068,przygotowanie
+S12,"węzeł Radom Południe (z węzłem) – Puławy (węzeł Bronowice na obwodnicy Puław)",66.986,przygotowanie
+S12,"3. węzeł Wieniawa (bez węzła) - węzeł Radom (bez węzła)",12.175,przygotowanie
+S12,"2. obiekt WD-08 (bez obiektu) – obiekt WD-15 (bez obiektu)",5.664,przygotowanie
+S12,"gr. województw łódzkiego i mazowieckiego - Przysucha",14.43,Realizacja
+S12,"Przysucha - Wieniawa",14.72,Realizacja
+S12,"Piaski - Dorohucza",9.81,Realizacja
+S12,"obwodnica Chełma",13.63,Realizacja
+S12,"Chełm - Dorohusk",22.96,Realizacja
+S12,"Dorohucza - Chełm Zachód",22.34,Realizacja
+S16,"Olsztyn Wschód - Barczewo",11.452,przetarg
+S16,"2. węzeł Grajewo (bez węzła) - węzeł Osowiec (z węzłem)",24.7,przygotowanie
+S16,"3. węzeł Osowiec (bez węzła) - węzeł Knyszyn (z węzłem)",25.7,przygotowanie
+S16,"1. węzeł Szczuczyn/Guty (bez węzła) - węzeł Grajewo (z węzłem)",16.6,przygotowanie
+S16,"4.  Orzysz- Ełk",31.82,przygotowanie
+S16,"3. Mrągowo- Orzysz",47.85,przygotowanie
+S16,"Barczewo - Biskupiec",18.2,Realizacja
+S16,"Borki Wielkie - Mrągowo",12.935,Realizacja
+S16,"Knyszyn - Krynice",8.61,Realizacja
+S17,"Piaski  Łopiennik",16.265,przetarg
+S17,"Krasnystaw - Izbica",18.8,przetarg
+S17,"Izbica - Zamość Sitaniec",9.89,przetarg
+S17,"Budowa drogi ekspresowej S17 w. Ząbki - w. Zakręt",10.182,przygotowanie
+S17,"Budowa drogi ekspresowej S17, odc. w. Drewnica - w. Ząbki",3.6,przygotowanie
+S17,"10. Hrebenne (od istniejącej DK17 w km 233+435) - terminal Hrebenne (Rawa Ruska)",1.7,przygotowanie
+S17,"2. węzeł "Łopiennik" bez węzła – węzeł "Krasnystaw Północ" bez węzła",9.239,przygotowanie
+S17,"5. węzeł „Zamość Sitaniec” bez węzła – węzeł „Zamość Wschód” bez węzła",11.327,przygotowanie
+S17,"Zamość Wschód - Zamość Południe",12.43,Realizacja
+S17,"Tomaszów Lubelski - Hrebenne ",17.28,Realizacja
+S17,"Zamość Południe - Tomaszów Lubelski",18.498,Realizacja
+S19,"Jawornik - Lutcza",5.194,przetarg
+S19,"Kontynuacja 1c. węzeł Białystok Południe (bez węzła) - Deniski",15.114,przygotowanie
+S19,"Budowa drogi ekspresowej S19 odcinek granica woj. podlaskiego – Łosice – granica woj. lubelskiego",32.4,przygotowanie
+S19,"1a. węzeł Białystok Zachód  (bez węzla) - węzeł Białystok Księżyno (z węzłem)",16.643,przygotowanie
+S19,"Kontynuacja 1b. węzeł Białystok Księżyno (bez węzła) - węzeł Białystok Południe (z węzłem), z odcinkiem DK65",21.63,przygotowanie
+S19,"Malewice - Chlebczyn",25.07,Realizacja
+S19," gr. woj. maz. i lub. - Międzyrzec Podlaski ",13.709,Realizacja
+S19,"Krynice - Dobrzyniewo - Białystok Zachód",10.18,Realizacja
+S19,"Radzyń Podlaski - Kock ",18.136,Realizacja
+S19,"obwodnica Kocka i Woli Skromowskiej (II jezdnia)",7.839,Realizacja
+S19,"Międzyrzec Podlaski  - Radzyń Podlaski Północ",22.33,Realizacja
+S19,"Sokółka - Czarna Białostocka",24.1,Realizacja
+S19,"Czarna Białostocka - Białystok Północ ",12.335,Realizacja
+S19,"Kock - Lubartów Północ",15.824,Realizacja
+S19,"Białystok Północ - Dobrzyniewo",9.48,Realizacja
+S19,"Lubartów Północ - Lublin Rudnik",23.04,Realizacja
+S19,"Sokołów Młp. Północ - Jasionka - (dobudowa II jezdni) poza PBDK",13.83,Realizacja
+S19,"Rzeszów Południe - Babica ",10.271,Realizacja
+S19,"Bielsk Podlaski Zachód - Boćki",12.191,Realizacja
+S19,"Lutcza - Domaradz",6.43,Realizacja
+S19,"Domaradz - Krosno",12.535,Realizacja
+S19,"Krosno - Miejsce Piastowe ",10.3,Realizacja
+S19,"Miejsce Piastowe - Dukla ",10.09,Realizacja
+S19,"Dukla - Barwinek",18.18,Realizacja
+S19,"Babica - Jawornik ",11.58,Realizacja
+S19,"Kuźnica - Sokółka Północ ",15.791,Realizacja
+S19,"Deniski - Haćki",6.503,Realizacja
+S19,"Haćki - Bielsk Podlaski Zachód z odcinkiem DK66 ",11.97,Realizacja
+S19,"Boćki - Malewice",15.91,Realizacja
+S3,"Dargobądz - Troszyn",15.903,Realizacja
+S3,"Świnoujście - Dargobądz ",17.05,Realizacja
+S5,"Budowa drogi S5 na odcinku Sobótka (S8)- Bolków (S3)",56.844,przygotowanie
+S5,"Budowa drogi ekspresowej S5 Wirwajdy - Nowe Marzy, odcinek granica województw kujawsko-pomorskiego i warmińsko-mazurskiego – Nowe Marzy",45,przygotowanie
+S5,"Budowa drogi ekspresowej S5 Wirwajdy-Nowe Marzy, odc. Wirwajdy - granica województw kujawsko-pomorskiego i warmińsko-mazurskiego",50,przygotowanie
+S50,"1. Obwodnica Aglomeracji Warszawskiej, odcinek S10 (bez węzła) – DK92 (z węzłem)",37,przygotowanie
+S50,"Obwodnica Aglomeracji Warszawskiej, odcinek S7 (z węzłem) – S10 (z węzłem)",22,przygotowanie
+S52,"odc. I - węzeł Modlniczka (Radzikowskiego) - węzeł Modlnica",2.681,przygotowanie
+S52,"Budowa drogi ekspresowej S52 na odcinku Bielsko Biała - Głogoczów (BDI)",60.967,przygotowanie
+S52,"Modlnica - Kraków Mistrzejowice",12.325,Realizacja
+S6,"Odcinek 3 Police - Goleniów",23.407,przygotowanie
+S6,"Odcinek 2 Dołuje - Police",11.919,przygotowanie
+S6,"Odcinek 1 Kołbaskowo – Dołuje",13.584,przygotowanie
+S6,"Leśnice -  Bożepole Wielkie",22.106,Realizacja
+S6,"Skórowo - Leśnice",10.88,Realizacja
+S6,"Bobrowniki - Skórowo",13.152,Realizacja
+S6,"Słupsk - Bobrowniki ",16.12,Realizacja
+S6,"obwodnica Słupska (II jezdnia)",9.51,Realizacja
+S6,"Sławno - Słupsk",22.89,Realizacja
+S6,"obw. Koszalina i Sianowa - Sławno ",23.17,Realizacja
+S61,"Łomża Zachód - Kolno",19.885,Realizacja
+S7,"S7 Płońsk - Warszawa, odc.  Kiełpin - Warszawa",13.1,przygotowanie
+S7,"Chwaszczyno - Żukowo ",16.179,Realizacja
+S7,"Miechów - Szczepanowice",5.32,Realizacja
+S7,"Widoma  - Kraków ",18.3,Realizacja
+S7,"Załuski - Modlin",12.028,Realizacja
+S7,"Płońsk (Siedlin) - Załuski",12.871,Realizacja
+S7,"Żukowo - Gdańsk Południe wraz z obwodnicą Żukowa",22.353,Realizacja
+S7,"Czosnów - Kiełpin",9,Realizacja
+S7,"Modlin - Czosnów",9.738,Realizacja
+S74,"Sulejów - granica woj. łódzkiego",24.28,przygotowanie
+S74,"1. Opatów (Okalina Kolonia) -  Węzeł „Samborzec” (z węzłem)",23.5,przygotowanie
+S74,"2. Węzeł „Samborzec” (bez węzła) – Węzeł „Gorzyce” (z węzłem)",14,przygotowanie
+S74,"4. Węzeł "Radomyśl" (bez węzła) - Nisko Węzeł "Zapacz" (z węzłem) dł. ok. 17,097 km (km ok. 55+700 - 72+797)",17.097,przygotowanie
+S74,"3. Węzeł „Gorzyce” (bez węzła) – Węzeł „Radomyśl” (z węzłem)",18.2,przygotowanie
+S74,"Przełom/Mniów - Kielce Zachód",16.365,Realizacja
+S74,"granica woj. łódzkiego i świętokrzyskiego - Przełom/Mniów",27.48,Realizacja
+S74,"Łagów - Jałowęsy -  Opatów",18.31,Realizacja
+S74,"Cedzyna - Łagów z obwodnicą Łagowa",30.015,Realizacja
+S74,"Kielce Zachód - Kielce",5.01,Realizacja
+S74/DK9,"obwodnica Opatowa ",11.801,Realizacja
+S8,"Niemcza - Ząbkowice Śląskie Północ",7.937,przetarg
+S8,"Łagiewniki Zachód - Niemcza",9.338,przetarg
+S8,"odc. IA węzeł Bardo (bez węzła) – węzeł Kłodzko (z węzłem)",23.037,przygotowanie
+S8,"S8 Kłodzko-Boboszów",45,przygotowanie
+S8,"Białystok - Raczki",90,przygotowanie
+S8,"Kobierzyce Północ - Kobierzyce Południe",7.552,Realizacja
+S8,"Kobierzyce Południe - Jordanów Śląski ",13.83,Realizacja
+S8,"Jordanów Śląski - Łagiewniki Zachód ",11.239,Realizacja
+S8,"Ząbkowice Śląskie - Bardo",13.96,Realizacja

@@ -1,0 +1,60 @@
+######################################
+## Łączna długość dróg w realizacji ##
+
+SELECT SUM(łączna_długość_odcinka) AS total_length_realization
+FROM drogi
+WHERE etap = 'Realizacja';
+
+WYNIK: 
+
+total_length_realization
+1616.128
+
+
+############################################################
+## Zliczenie odcinków w poszczególnych etapach realizacji ##
+
+SELECT etap, COUNT(*) AS liczba_odcinkow
+FROM drogi
+GROUP BY etap;
+
+WYNIK:
+Etap         Liczba_odcinkow
+Realizacja         124
+Przygotowanie      154 
+Przetarg           20
+
+############################################################
+## Sumaryczna długość dróg według kategorii (numer drogi) ##
+
+SELECT nr_drogi, SUM(łączna_długość_odcinka) AS total_length
+FROM drogi
+GROUP BY nr_drogi
+ORDER BY total_length DESC;
+
+WYNIK: 
+
+See "Drogi_i_D_ugo_ci.csv" (Too big to place here)
+
+#############################################
+## Szczegółowe informacje o każdym odcinku ## 
+
+SELECT nr_drogi, nazwa_odcinka_realizacyjnego, łączna_długość_odcinka, etap
+FROM drogi
+ORDER BY nr_drogi, etap;
+
+See "info_about_particular_road.csv (Too big to place here)
+
+#######################################################
+## Sumaryczna długość dróg na poszczególnych etapach ## 
+
+SELECT etap, SUM(łączna_długość_odcinka) AS total_length
+FROM drogi
+GROUP BY etap;
+
+WYNIK:
+
+etap,total_length
+Realizacja,1616.128
+przetarg,164.39
+przygotowanie,3255.038999999999

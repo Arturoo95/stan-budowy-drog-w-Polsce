@@ -1,0 +1,68 @@
+##POL##
+
+Raport obejmuje analizę prawdziwych danych, pobranych z GDDKiA, dane od września 2024 r.
+
+1. Całkowita długość dróg w fazie realizacji:
+Całkowita długość dróg, które są obecnie w fazie realizacji, wynosi 1616,13 km. Oznacza to postęp w realizacji projektów drogowych w Polsce.
+
+2. Długość dróg według typu:
+Długości dróg różnią się znacząco w zależności od ich typu. Niektóre drogi (np. A4 i S19) mają znacznie dłuższe odcinki w budowie w porównaniu do innych.
+A4 jest najdłuższą drogą w budowie, z ponad 456,77 km w różnych etapach realizacji.
+
+3. Analiza etapów realizacji:
+Drogi znajdują się na różnych etapach realizacji: planowanie, przygotowanie i realizacja.
+Szczegółowa analiza pokazuje, że znaczna część infrastruktury drogowej jest w fazie realizacji, co wskazuje na wysoki poziom inwestycji i aktywności w budowie dróg.
+
+4. Szczegóły dotyczące konkretnych dróg:
+Konkretne odcinki dróg, takie jak A1 i A2, są rozbudowywane i modernizowane, w tym nowe odcinki oraz poszerzanie istniejących dróg.
+Na przykład odcinki takie jak Poszerzenie autostrady A1 oraz węzeł Dobryń obejmują zarówno nowe segmenty dróg, jak i rozbudowę w celu zwiększenia przepustowości.
+
+5. Dane o wydatkach:
+Choć dane dotyczące przeciętnych wydatków nie są bezpośrednio powiązane z budową dróg, mogą dostarczać wglądu w budżetowanie projektów drogowych lub być częścią szerszych analiz gospodarczych związanych z inwestycjami transportowymi.
+
+#################################################################################################################
+
+Ogólne wnioski:
+
+# Silne inwestycje w infrastrukturę: Polska dokonuje znaczących postępów w rozbudowie swojej infrastruktury drogowej, zwłaszcza na głównych trasach, takich jak A1, A2 i A4.
+Skupienie na kluczowych odcinkach dróg: Długie odcinki dróg w budowie wskazują na priorytet w rozwoju głównych dróg krajowych i autostrad.
+
+# Przyszłe potrzeby infrastrukturalne: Dane podkreślają potrzebę dalszego monitorowania postępów oraz ewentualnych opóźnień w projektach w fazie przygotowań, aby zapewnić zgodność z celami transportowymi.
+
+############################################################################################################################
+
+
+##ENG##
+
+Total Road Length in Realization Stage:
+
+The total length of roads currently in the realization stage is 1616.13 km. This reflects the progress of ongoing road projects in Poland.
+
+
+2. Road Length by Type:
+The road types vary significantly in their total lengths, with some roads (e.g., A4 and S19) having much longer lengths under construction compared to others.
+A4 has the longest road section, with over 456.77 km currently in different stages of realization.
+
+
+3. Road Stage Analysis:
+Roads are at different stages: planning, preparation, and realization.
+A detailed breakdown of roads by stage shows a significant portion of the road infrastructure is in the realization stage, indicating a high level of investment and activity in road construction.
+
+
+4. Details about Specific Roads:
+Specific road sections such as A1 and A2 are undergoing various expansions and developments, including new sections and widening of existing roads.
+For example, sections like Poszerzenie autostrady A1 and węzeł Dobryń reflect both new road segments and expansions to accommodate increasing traffic.
+
+
+5. Spending Data:
+While the dataset on average spending isn't fully connected to road construction, it may offer insights into budgeting for road projects or be linked to broader economic analyses involving transportation investments.
+
+
+Overall Conclusions:
+
+Strong infrastructure investment: Poland is making significant progress in expanding its road infrastructure, especially on major roads like A1, A2, and A4.
+
+Focus on critical road sections: Long road sections under construction reflect a focus on major national roads and highways.
+
+Future infrastructure needs: The data highlights the need to continue monitoring progress and potential delays in projects still in the preparation stage, ensuring alignment with transportation goals.
+
